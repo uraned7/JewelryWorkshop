@@ -1,0 +1,15 @@
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\bin\Debug\Jewelry workshop.exe.config
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\bin\Debug\Jewelry workshop.exe
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\bin\Debug\Jewelry workshop.pdb
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\MainWindow.g.cs
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\App.g.cs
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop_MarkupCompile.cache
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop_MarkupCompile.lref
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\MainWindow.baml
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop.g.resources
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry_workshop.Properties.Resources.resources
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop.exe
+C:\Users\user\Source\Repos\Jewelry-workshop\Jewelry workshop\obj\Debug\Jewelry workshop.pdb
